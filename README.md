@@ -1,6 +1,8 @@
-### Hi there 👋  
 
- 👩‍💻 I'm Emma, currently on my way to become a .NET developer! 
+
+![A header image](https://github.com/Emmvid/Emmvid/blob/main/header.png?raw=true) 
+
+ ## currently on my way to become a .NET developer! 
 - ---
  ☀️  Here you can see a bunch of my projects, starting out with the simplest ones and in the future there's gonna be a lot more!  
  
