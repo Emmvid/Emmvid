@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👩‍💻 I'm Emma, currently on my way to become a .NET developer! 
+- ---
+ -  Here you can see a bunch of my projects, starting out with the simplest ones and in the future there's gonna be a lot more!
+  - Connect with me!
+  
 
 <!--
 **Emmvid/Emmvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
